@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/Wolfy87/EventEmitter.git",
+    "version": "v4.2.11",
+    "name": "event-emitter",
+    "main": "index.js"
+}
